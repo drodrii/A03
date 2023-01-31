@@ -1,6 +1,7 @@
 # A03: Git/Webstorm/Github/Tutorial
 ## Part 1: Directions on Using WebStorm
-1. Apply for a JetBrains WebStorm license at https://www.jetbrains.com/community/education/. They provide free licenses to students.
+[WebStorm](https://www.jetbrains.com/webstorm/) is an integrated development environment (IDE) designed by JetBrains for coding in JavaScript, as well as other web development languages, such as HTML and CSS.
+1. Apply for a WebStorm license [here](https://www.jetbrains.com/community/education/). They provide free licenses to students upon identification.
 2. Install **Git** locally at https://git-scm.com/downloads.
 3. Register for a **Github** account at https://github.com/join.
 4. Next, we can connect your **Github** account to WebStorm. 
