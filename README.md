@@ -35,6 +35,6 @@
 - **Remote** - refers to a repository hosted over the internet, such as Github.
 - **Repository** - workspace containing all of your project's files and each file's revision history.
 
-##References
-[JetBrains](https://www.jetbrains.com/)
-[GitHub glossary](https://docs.github.com/en/get-started/quickstart/github-glossary)
+## References
+- [JetBrains](https://www.jetbrains.com/)
+- [GitHub glossary](https://docs.github.com/en/get-started/quickstart/github-glossary)
