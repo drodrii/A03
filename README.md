@@ -7,7 +7,7 @@
 2. Install **Git** locally on your device [here](https://git-scm.com/downloads).
 3. Register for a **Github** account [here](https://github.com/join).
 4. Next, we can set up Git with Webstorm, allowing you to **push** content from your local **repository** to a remote **repository** on **Github**. In Webstorm, perform Ctrl+Alt+S to access the Settings.
-6. From here, go to Version Control > Git, and locate your Git executable path. Enter this information in the "Path to Git executable" box.
+6. From here, go to Version Control > **Git**, and locate your **Git** executable path. Enter this information in the "Path to **Git** executable" box.
 
 ### Linking your Github to Webstorm
 1. In Webstorm, perform Ctrl+Alt+S to access the Settings.
