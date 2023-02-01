@@ -19,18 +19,22 @@
 1. In Webstorm, select File > New > Project.
 2. Choose "Empty Project" from the dropdown menu.
 3. From the top toolbar, select "VCS" (Version Control System) > Get From Version Control
-4. From here, you can either paste the URL of the repository you want to link to Webstorm, or select your Github account on the left side and choose the repository from there.
+4. From here, you can either paste the URL of the **repository** you want to link to Webstorm, or select your **Github** account on the left side and choose the **repository** from there.
 
 ## Part 2: Glossary
 - **Branch** - allows you to isolate edits without effecting the original repository.
 - **Clone** - a copy of a repository that you can store locally and sync to Github.
-- **Commit** - an individual change made to a file. Each commit has a unique identifier that can be used to refer to a previous change. They often contain a description of what changes were made.
-- **Fetch** - A fetch will add a change from another repository to your local branch without a commit.
-- **Git** - An open-source version control system to track changes in files.
-- **Github** - A version control platform utilizing Git that allows users to host and collaborate on projects.
-- **Merge**
-- **Merge Conflict**
-- **Push**
-- **Pull**
-- **Remote**
-- **Repository** - A repository contains all of your project's files and each file's revision history. You can discuss and manage your project's work within the repository.
+- **Commit** - an individual change made to a file, marked with a unique identifier that can be used to refer to a previous change and often contain a description of what was changed.
+- **Fetch** - adds a change from another repository to your local branch without a **commit**.
+- **Git** - an open-source version control system to track changes in files.
+- **Github** - a version control platform utilizing Git that allows users to host and collaborate on projects.
+- **Merge** - combines two branches.
+- **Merge Conflict** - occurs when an attempted branch merge fails.
+- **Push** - syncs your committed changes from a local repository with a remote repository.
+- **Pull** - syncs your commited changes from a remote repository with a local repository.
+- **Remote** - refers to a repository hosted over the internet, such as Github.
+- **Repository** - workspace containing all of your project's files and each file's revision history.
+
+##References
+[JetBrains](https://www.jetbrains.com/)
+[GitHub glossary](https://docs.github.com/en/get-started/quickstart/github-glossary)
